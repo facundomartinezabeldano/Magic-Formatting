@@ -1,0 +1,5 @@
+asyncio==3.4.3
+inquirerpy==0.3.3     
+pfzy==0.3.4
+prompt-toolkit==3.0.28
+wcwidth==0.2.5   
