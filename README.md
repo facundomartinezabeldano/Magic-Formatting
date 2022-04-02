@@ -19,12 +19,11 @@ I got really tired of renaming files so I just made this silly litle script
 </div align= "center">
 
 ## Example:
-
-                                                |    Original    	|           Type 1          	|           Type 2          	|           Type 3          	|
-                                                |:--------------:	|:-------------------------:	|:-------------------------:	|:-------------------------:	|
-                                                | DjiNt9Emzf.png 	| This is an example 1 .png 	| This_is_an_example_1_.png 	| This-is-an-example-1-.png 	|
-                                                | AvVvziEb6d.png 	| This is an example 2 .png 	| This_is_an_example_2_.png 	| This-is-an-example-2-.png 	|
-                                                | OLFKo6JnSg.png 	| This is an example 3 .png 	| This_is_an_example_3_.png 	| This-is-an-example-3-.png 	|
+|    Original    	|           Type 1          	|           Type 2          	|           Type 3          	|
+|:--------------:	|:-------------------------:	|:-------------------------:	|:-------------------------:	|
+| DjiNt9Emzf.png 	| This is an example 1 .png 	| This_is_an_example_1_.png 	| This-is-an-example-1-.png 	|
+| AvVvziEb6d.png 	| This is an example 2 .png 	| This_is_an_example_2_.png 	| This-is-an-example-2-.png 	|
+| OLFKo6JnSg.png 	| This is an example 3 .png 	| This_is_an_example_3_.png 	| This-is-an-example-3-.png 	|
 
 ## How to:
 1. Download this repository `git clone https://github.com/facundomartinezabeldano/Magic-Formatting.git`
